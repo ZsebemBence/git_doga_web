@@ -1,0 +1,12 @@
+X:\>c:
+
+C:\>cd
+
+C:\>cd Users\TizedikA\Documents
+
+C:\Users\TizedikA\Documents>cd git_doga
+
+C:\Users\TizedikA\Documents\git_doga>git init
+Initialized empty Git repository in C:/Users/TizedikA/Documents/git_doga/.git/
+
+C:\Users\TizedikA\Documents\git_doga>
